@@ -1,0 +1,5 @@
+# Nessun firmware nel repository: si genera con doublewy_patcher.py.
+*.bin
+*.zip
+.DS_Store
+Thumbs.db
