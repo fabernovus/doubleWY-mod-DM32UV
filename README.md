@@ -8,6 +8,16 @@ The **doubleWY Mod** was created by **IU1WWY**, a radio amateur with a passion
 for computing, to improve the Baofeng DM32UV original firmware
 (`DM32.NRF.01.049`) and add new features over time.
 
+> ☕ **Supporta il progetto / Support the project**
+>
+> [![Supporta su Ko-fi / Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/doublewy)
+>
+> La mod è gratuita e sviluppata nel tempo libero. Se ti è utile, puoi
+> offrirmi un caffè: **[ko-fi.com/doublewy](https://ko-fi.com/doublewy)**.
+>
+> The mod is free and built in spare time. If you find it useful, you can buy
+> me a coffee: **[ko-fi.com/doublewy](https://ko-fi.com/doublewy)**.
+
 | File | Uso / Purpose |
 | --- | --- |
 | [doublewy_patcher.py](doublewy_patcher.py) | Genera il firmware della mod / Builds the mod firmware |
